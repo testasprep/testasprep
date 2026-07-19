@@ -20,12 +20,9 @@
 
 ### 🧩 1. Core Logic Module (Procedural & Dynamic)
 Unlike static PDFs or cyclic question banks, TestAS Mastery uses **dynamic question engines** that generate fresh, backtrack-verified practice puzzles on every load. This builds authentic cognitive problem-solving skills rather than rote memory.
-*   **Latin Square Puzzles**: Solved via true randomized generation with backtracking-verified unique solutions. Features five targeted play modes:
+*   **Latin Square Puzzles**: Solved via true randomized generation with backtracking-verified unique solutions. Features two core modes:
     *   *Practice Mode*: Select custom board sizes (4×4 up to 7×7) and difficulties to learn at your own pace.
     *   *Quiz Mode*: The authentic exam-style format where you isolate and find a single missing cell.
-    *   *Survival Mode*: A heart-based streak run (3 lives) to test your accuracy limits.
-    *   *Adaptive Mode*: Real-time difficulty calibration adjusting parameters dynamically based on user response metrics.
-    *   *Daily Challenge*: A globally synchronized daily benchmark puzzle shared by all users.
 *   **Figure Sequences**: Visual pattern-recognition puzzles governed by dynamic translation rules. Employs duplicate-suppression logic to ensure sequence transformations stay fresh and unique.
 *   **Mathematical & Quantitative Reasoning**: A comprehensive system covering equation systems, quantitative logic relationships, and numerical sequence patterns. Includes six difficulty tiers from Easy to Master, complete with live accuracy counters.
 
