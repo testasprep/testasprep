@@ -5,8 +5,8 @@
 ### The Comprehensive, Interactive Preparation Platform for the TestAS Exam
 
 [![Live App](https://img.shields.io/badge/Live%20App-testasprep.netlify.app-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](https://testasprep.netlify.app)
-[![Documentation](https://img.shields.io/badge/Official%20Docs-Docs%20Portal-blue?style=for-the-badge&logo=read-the-docs&logoColor=white)](#)
-[![Blog Deep Dive](https://img.shields.io/badge/Blog%20Deep%20Dive-Detailed%20Walkthrough-orange?style=for-the-badge&logo=medium&logoColor=white)](#)
+[![Documentation](https://img.shields.io/badge/Official%20Docs-Docs%20Portal-blue?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://testasprepdocs.vercel.app)
+[![Blog Deep Dive](https://img.shields.io/badge/Blog%20Deep%20Dive-Detailed%20Walkthrough-orange?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@testasprepsupport/testas-mastery-the-free-all-in-one-prep-platform-for-the-testas-exam-2026-deep-dive-1ab54ea08368)
 
 </div>
 
