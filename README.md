@@ -6,7 +6,7 @@
 
 [![Live App](https://img.shields.io/badge/Live%20App-testasprep.netlify.app-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](https://testasprep.netlify.app)
 [![Documentation](https://img.shields.io/badge/Official%20Docs-Docs%20Portal-blue?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://testasprepdocs.vercel.app)
-[![Blog Deep Dive](https://img.shields.io/badge/Blog%20Deep%20Dive-Detailed%20Walkthrough-orange?style=for-the-badge&logo=medium&logoColor=white)](https://testasmastery.blogspot.com/2026/07/testas-exam-prep-for-german-university.html)
+[![Blog Deep Dive](https://img.shields.io/badge/Blog%20Deep%20Dive-Detailed%20Walkthrough-orange?style=for-the-badge&logo=medium&logoColor=white)](https://testasprep.blogspot.com/2026/07/testas-exam-free-prep-for-german.html)
 
 </div>
 
